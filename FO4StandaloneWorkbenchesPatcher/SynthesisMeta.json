@@ -1,10 +1,12 @@
 {
-  "Nickname": "FO4StandaloneWorkbenchesPatcher",
+  "Nickname": "Standalone Workbenches Patcher",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Standalone Workbenches Patcher",
+  "LongDescription": "Modifies recipes to use Standalone Workbenches.",
   "PreferredAutoVersioning": "Default",
-  "RequiredMods": [],
+  "RequiredMods": [
+    "StandaloneWorkbenches.esl"
+  ],
   "TargetedReleases": [
     "Fallout4"
   ]
